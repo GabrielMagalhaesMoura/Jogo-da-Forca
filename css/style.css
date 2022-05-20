@@ -131,6 +131,7 @@ body {
 .jogo {
     height: 800px;
     width: 1200px;
+   
 }
 
 .conteiner-btn {
@@ -155,3 +156,4 @@ body {
     color: var(--blue-color);
     margin-left: 24px;
 }
+
