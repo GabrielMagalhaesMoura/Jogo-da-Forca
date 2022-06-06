@@ -155,3 +155,7 @@ body {
     color: var(--blue-color);
     margin-left: 24px;
 }
+
+.hidden {
+    display: none;
+}
